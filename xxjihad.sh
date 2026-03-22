@@ -5,7 +5,7 @@
 #  FIXED: Verbose Installation (apt-get details)                              #
 ###############################################################################
 
-REPO_BASE="https://raw.githubusercontent.com/jamal7720077-debug/XxXjihad-Ultima-Final-V8/master"
+REPO_BASE="https://raw.githubusercontent.com/mahmmedateer67-hash/XxXjihad-Ultima-Final-V8-Fixed/master"
 LIB_DIR="/usr/local/lib/xxjihad"
 BIN_DIR="/usr/local/bin"
 ETC_DIR="/etc/xxjihad"
